@@ -17,6 +17,8 @@
 - 🌱 I’m currently learning:
     -  Python
     -  C++
+    -  SQL
+    -  HTML / CSS / Javascript
     -  Everything else I can about Computer Science.
   
 - 💞️ I’m looking to collaborate on:
