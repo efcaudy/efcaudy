@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning:
     -  Python / Flask / Jinja
-    -  C++
+    -  C / C++
     -  SQL
     -  HTML / CSS / Javascript
     -  Everything else I can about Computer Science.
