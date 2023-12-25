@@ -4,6 +4,7 @@
 
 - Certifications:
     - Via EdX, Harvard's CS50P: Introduction to Programming with Python
+    - Via EdX, Harvard's CS50x
   
 - 👀 I’m interested in:
     - Dynamic Content Generation Algorithms
