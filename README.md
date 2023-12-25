@@ -16,7 +16,7 @@
     - Literature and Other Fine Arts
 
 - 🌱 I’m currently learning:
-    -  Python
+    -  Python / Flask / Jinja
     -  C++
     -  SQL
     -  HTML / CSS / Javascript
