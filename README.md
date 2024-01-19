@@ -8,7 +8,7 @@
  
 - Things I've Made:
     - forestwingchun.com
-      - A school teaching traditional Wing Chun with a focus on Applied Mindfulness. Made with WiX site creator.
+      - A school teaching traditional Wing Chun with a focus on applied mindfulness. Website made with WiX site creator.
     - shiftwitch.com :
       - A simple shift tracking app for hourly workers, to keep track of their schedule and stats! Written in Flask and Jinja.
   
