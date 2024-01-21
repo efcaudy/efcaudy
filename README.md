@@ -5,7 +5,7 @@
 - Certifications:
     - Via EdX, Professional Certificate : Computer Science for Python Programming
     - Via EdX, Harvard's CS50P: Introduction to Programming with Python
-    - Via EdX, Harvard's CS50x
+    - Via EdX, Harvard's CS50x: Introduction to Computer Science
  
 - Things I've Made:
     - forestwingchun.com
