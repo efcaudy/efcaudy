@@ -4,7 +4,7 @@
 
   My experience with Psychology intersects with my skills as a developer to inform a user-centric philosophy in my work. Every human involved in a business is part of the user experience - from the customer to the C-Suite. Software design should be as easy, efficient, and pleasant to interact with as possible - just as much for internal users (employees and admin) as it is for external users (customers and consumers). This isn't just movitated by altruism: employees who don't dread interacting with your software will be more motivated, productive, and waste less time grappling with simple tasks. Satisfied, motivated users translates directly to success in the corporate sphere. Long-term vision is needed in the approach to systems engineering to build genuine success, rather than temporary margins.
 
-  Combine user-centric design with a "complementarity principle" approach to automation (see https://queue.acm.org/detail.cfm?id=2841313), and you have a decent outline of my perspective for design.
+  Combine user-centrism with a "complementarity principle" approach to automation (see https://queue.acm.org/detail.cfm?id=2841313), and you have a decent outline of my perspective for design.
 
 - Certifications:
     - Via EdX, Professional Certificate : Computer Science for Python Programming
