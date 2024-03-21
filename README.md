@@ -13,7 +13,7 @@
  
 - Things I've Made:
     - forestwingchun.com
-      - A school teaching traditional Wing Chun with a focus on applied mindfulness. Website made with WiX site creator. Currently rewriting in Flask and Jinja.
+      - A school teaching traditional Wing Chun with a focus on applied mindfulness. Web app with dynamic members section written in Flask and Jinja.
     - shiftwitch.com 
       - A simple shift tracking app for hourly workers, to keep track of their schedule and stats! Written in Flask and Jinja.
   
