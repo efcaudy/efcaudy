@@ -7,7 +7,9 @@
   Combine user-centrism with a "complementarity principle" approach to automation (see https://queue.acm.org/detail.cfm?id=2841313), and you have a decent outline of my perspective for design.
 
 - Certifications:
-    - Via EdX, Professional Certificate : Computer Science for Python Programming
+    - Via HarvardX, Professional Certificate: Computer Science for Artificial Intelligence
+    - Via HarvardX, Professional Certificate: Computer Science for Python Programming
+    - Via EdX, Harvard's CS50AI: Introduction to Artificial Intelligence with Python
     - Via EdX, Harvard's CS50P: Introduction to Programming with Python
     - Via EdX, Harvard's CS50x: Introduction to Computer Science
  
